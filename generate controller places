@@ -1,0 +1,4 @@
+.history not found, maybe you meant:
+
+IRB::Context#history_file
+IRB::Context#history_file=
