@@ -14,10 +14,10 @@ SimpleForm.setup do |config|
     # You can make any of these extensions optional by
     # renaming `b.use` to `b.optional`.
 
-    # Determines whether to use HTML5 (:email, :url, ...)
+    # Determines whether to use HTML5 (:email, :url, ...
+)
     # and required attributes
     b.use :html5
-
     # Calculates placeholders automatically from I18n
     # You can also pass a string as f.input placeholder: "Placeholder"
     b.use :placeholder
